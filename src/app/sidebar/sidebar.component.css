@@ -1,0 +1,22 @@
+.sidebar {
+    background-color: #343a40;
+    color: #fff;
+  }
+  
+  .sidebar-header {
+    padding: 20px;
+  }
+  
+  .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .nav-link:hover {
+    color: rgba(255, 255, 255, 0.75);
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+    color: #fff;
+  }
+  
